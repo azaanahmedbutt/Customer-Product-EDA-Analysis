@@ -1,20 +1,10 @@
 # Customer Product EDA Analysis
 
-## Project Overview
+## Overview
 
-This project performs Exploratory Data Analysis (EDA) using customer and product datasets.
+This project performs Exploratory Data Analysis (EDA) on customer and product datasets using Python.
 
-The analysis was conducted using Python in Jupyter Notebook.
-
-## Objectives
-
-- Calculate total inventory value
-- Analyze product discounts
-- Count total products
-- Filter customers by city and country
-- Visualize top purchasing cities
-- Analyze product purchase trends
-- Generate customer purchase reports
+The goal was to analyze inventory values, product discounts, customer purchasing behavior, and generate business insights.
 
 ## Tools Used
 
@@ -23,22 +13,34 @@ The analysis was conducted using Python in Jupyter Notebook.
 - Matplotlib
 - Jupyter Notebook
 
+## Tasks Performed
+
+- Loaded and explored datasets
+- Calculated total inventory value
+- Applied product discounts
+- Counted total products
+- Filtered customers by city and country
+- Visualized top purchasing cities
+- Analyzed product purchase trends
+- Created customer purchase reports
+- Identified discounted purchases
+
 ## Key Findings
 
 - Total Inventory Value: 13,133,737.88
 - Total Products: 100
-- 67 purchases involved discounted products
-- Most purchased products:
+- Discounted Purchases: 67
+- Most Purchased Products:
   - Half
   - Own
   - Every
 
-## Files Included
+## Files
 
 - Customers.csv
 - Products.csv
-- Muhammad_Azaan_Ashiq_Data_Analysis.ipynb
 - Customer_Purchase_Report.csv
+- Data_Analysis_Project.ipynb
 
 ## Author
 
