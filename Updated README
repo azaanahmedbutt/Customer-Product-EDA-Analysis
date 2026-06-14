@@ -1,47 +1,75 @@
-# Customer Product EDA Analysis
+# 📊 Customer Product EDA Analysis
 
-## Overview
+## 📌 Overview
 
 This project performs Exploratory Data Analysis (EDA) on customer and product datasets using Python.
 
-The goal was to analyze inventory values, product discounts, customer purchasing behavior, and generate business insights.
+The objective is to analyze inventory values, discounts, customer purchasing behavior, and generate business insights.
 
-## Tools Used
+---
+
+## 🛠 Tools Used
 
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
-## Tasks Performed
+---
 
-- Loaded and explored datasets
-- Calculated total inventory value
-- Applied product discounts
-- Counted total products
-- Filtered customers by city and country
-- Visualized top purchasing cities
-- Analyzed product purchase trends
-- Created customer purchase reports
-- Identified discounted purchases
+## 📂 Project Structure
 
-## Key Findings
+```text
+Customer-Product-EDA-Analysis/
+│
+├── Customers.csv
+├── Products.csv
+├── Customer_Purchase_Report.csv
+├── Data_Analysis_Project.ipynb
+└── README.md
+```
+
+---
+
+## 📋 Tasks Performed
+
+- Data Loading and Exploration
+- Inventory Value Calculation
+- Discount Analysis
+- Product Counting
+- Customer Filtering
+- Top Cities Visualization
+- Product Purchase Analysis
+- Customer Purchase Reporting
+- Discounted Purchase Analysis
+
+---
+
+## 📈 Key Findings
 
 - Total Inventory Value: 13,133,737.88
 - Total Products: 100
 - Discounted Purchases: 67
-- Most Purchased Products:
-  - Half
-  - Own
-  - Every
 
-## Files
+### Most Purchased Products
 
-- Customers.csv
-- Products.csv
-- Customer_Purchase_Report.csv
-- Data_Analysis_Project.ipynb
+1. Half
+2. Own
+3. Every
 
-## Author
+---
+
+## 📁 Files Included
+
+| File | Description |
+|--------|-------------|
+| Customers.csv | Customer dataset |
+| Products.csv | Product dataset |
+| Customer_Purchase_Report.csv | Generated report |
+| Data_Analysis_Project.ipynb | Complete analysis notebook |
+
+---
+
+## 👨‍💻 Author
 
 Azaan Ahmed Butt
